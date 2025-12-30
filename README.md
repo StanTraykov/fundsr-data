@@ -9,4 +9,4 @@ HMD. Human Mortality Database. Max Planck Institute for Demographic Research (Ge
   * hosting here for examples/vignettes. For your own use, you can download current data from www.mortality.org (login required but free).
 ### EUROPOP2023 (folder `es`) / proj_23naasmr
 Eurostat. EUROPOP2023 (dataset: [proj_23naasmr](https://ec.europa.eu/eurostat/databrowser/product/page/PROJ_23NAASMR)). © European Union, reuse authorised with acknowledgement.
-  * As Eurostat allow direct downloads, this is a convenience copy just in case. Scripts should download directly.
+  * As Eurostat allows direct downloads, this is a convenience copy just in case. Scripts should download directly.
